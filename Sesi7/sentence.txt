@@ -1,0 +1,7 @@
+document = [
+  'She sells sea shells by the sea shore',
+  'The shells she sells are surely sea shells',
+  'So if she sells sea shells on the sea shore'
+]
+
+query = 'Surely she sells sea shells'
